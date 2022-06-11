@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bingodapaz/static/css/main.7ae328a7.css",
+    "main.js": "/bingodapaz/static/js/main.489459f1.js",
+    "static/js/787.4a253302.chunk.js": "/bingodapaz/static/js/787.4a253302.chunk.js",
+    "index.html": "/bingodapaz/index.html",
+    "main.7ae328a7.css.map": "/bingodapaz/static/css/main.7ae328a7.css.map",
+    "main.489459f1.js.map": "/bingodapaz/static/js/main.489459f1.js.map",
+    "787.4a253302.chunk.js.map": "/bingodapaz/static/js/787.4a253302.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ae328a7.css",
+    "static/js/main.489459f1.js"
+  ]
+}
